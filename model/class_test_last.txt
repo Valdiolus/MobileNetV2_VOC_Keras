@@ -1,0 +1,5 @@
+Class person acc=0.889922480620155
+Class bicycle acc=0.8519108280254777
+Class car acc=0.803921568627451
+Class bus acc=0.9253968253968254
+Class motorbike acc=0.8600953895071543
